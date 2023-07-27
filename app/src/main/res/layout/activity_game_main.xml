@@ -6,4 +6,18 @@
     android:layout_height="match_parent"
     tools:context=".GameMainActivity">
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="128dp"
+        android:id="@+id/play3InARow"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:layout_marginHorizontal="16dp"
+        android:layout_marginVertical="16dp"
+        android:background="@drawable/button_rounded"
+        android:backgroundTint="@color/play_button"
+        android:text="@string/play_3InARow"
+        />
+
+
 </androidx.constraintlayout.widget.ConstraintLayout>

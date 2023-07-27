@@ -13,6 +13,9 @@
         android:theme="@style/Theme.Timekiller"
         tools:targetApi="31">
         <activity
+            android:name=".Game3InARow"
+            android:exported="false" />
+        <activity
             android:name=".GameMainActivity"
             android:exported="false" />
         <activity
