@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="playButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/play_button</item>
+
+    </style>
+    <style name="submitButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/submit_button</item>
+    </style>
+    <style name="cancelButton" parent="Widget.AppCompat.Button">
+        <item name="android:background">@color/cancel_button</item>
+    </style>
+    <style name="buttonDefault" parent="Widget.AppCompat.Button">
+        <item name="cornerRadius">10dp</item>
+        <item name="tintMode">src_over</item>
+
+    </style>
+
+
+
+
+</resources>

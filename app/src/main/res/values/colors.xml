@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="play_button">#80C82D</color>
+    <color name="submit_button">#6ECF32</color>
+    <color name="cancel_button">#D5442A</color>
+
+    <color name="gem_red">#E62121</color>
+    <color name="gem_green">#5AD63E</color>
+    <color name="gem_blue">#0055FF</color>
+    <color name="gem_cyan">#04B0FF</color>
+    <color name="gem_pink">#E92BF6</color>
+    <color name="gem_yellow">#F3CB03</color>
+    <color name="gem_purple">#4913DC</color>
+
+    <color name="accent_light">#2A7FDB</color>
+    <color name="accent_dark">#2667EA</color>
+
+    <color name="tint_light">#FFFFFF</color>
+    <color name="tint_dark">#222429</color>
+</resources>

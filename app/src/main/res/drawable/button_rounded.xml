@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<shape xmlns:android="http://schemas.android.com/apk/res/android">-->
+<!--&lt;!&ndash;    <solid android:color="@color/white"/> &lt;!&ndash; Цвет квадрата &ndash;&gt;&ndash;&gt;-->
+<!--    <corners android:radius="10dp"/> &lt;!&ndash; Радиус скругления углов &ndash;&gt;-->
+
+<!--</shape>-->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="@color/white" />
+            <corners android:radius="10dp" />
+        </shape>
+    </item>
+</layer-list>
